@@ -1,1 +1,1 @@
-from luravele_utils.utils import Utils
+from luravele_python_utils.utils import Utils
